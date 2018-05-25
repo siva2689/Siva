@@ -7,8 +7,8 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-/**
- * This bean is used to hold the entity manager factory and to produce the
+/*
+ * hi This bean is used to hold the entity manager factory and to produce the
  * conversation scoped entity manager for injection
  */
 @Singleton
